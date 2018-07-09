@@ -1,0 +1,3 @@
+本系列为nlp相关原理和实践，语言为python
+1、中文分词技术
+  参考word_segmentation.py文件，包含分词方法和py示例代码。
