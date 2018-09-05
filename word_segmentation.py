@@ -41,7 +41,9 @@
                     result.append(text[:index])
                     text = text[index:]
                     index = len(text)
-
+             if index==1:
+                text=text[index:]
+                index=len(text)
             if word is None:
                 index -=1
 #        return result
